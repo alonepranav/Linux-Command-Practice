@@ -1,6 +1,3 @@
-Great! Let’s talk about **`cp`**, a fundamental command for copying files and directories.
-
----
 
 ### `cp` — Copy Files and Directories
 

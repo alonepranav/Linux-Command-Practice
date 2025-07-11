@@ -1,5 +1,4 @@
-Got it! Here’s a quick rundown of the `touch` command in Linux and its PowerShell equivalent on Windows.
-
+ 
 ---
 
 ### `touch` Command (Linux)

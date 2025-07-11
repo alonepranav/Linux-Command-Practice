@@ -1,5 +1,4 @@
-Sure! Here's the lowdown on `rmdir` in Linux and its Windows PowerShell counterpart.
-
+ 
 ---
 
 ### `rmdir` Command (Linux)

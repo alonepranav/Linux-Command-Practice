@@ -1,5 +1,4 @@
-Sure! Here's a detailed overview of **`curl`**:
-
+ 
 ---
 
 ### What is `curl`?

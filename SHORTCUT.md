@@ -1,0 +1,1 @@
+Ctrl + l = Clear the terminal

@@ -1,7 +1,3 @@
-Sure! Here’s a detailed explanation of the `ipconfig` command and its common options and output fields:
-
----
-
 ### What is `ipconfig`?
 
 `ipconfig` stands for **Internet Protocol Configuration**. It's a command-line tool in Windows used to display and manage the IP address configuration of network adapters on your system.

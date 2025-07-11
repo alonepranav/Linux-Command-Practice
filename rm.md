@@ -1,5 +1,4 @@
-Got it! You want to know about the Linux `rm` command.
-
+ 
 `rm` is used to **remove (delete) files or directories** in Linux. Here's a quick overview of how to use it safely:
 
 ### Basic Usage
