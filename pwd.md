@@ -1,21 +1,28 @@
-`pwd` stands for **Print Working Directory**.
+## 🔹 `pwd` – Print Working Directory
 
-In Linux (and other Unix-like systems), when you type:
+In Linux (and other Unix-like systems), the `pwd` command **displays the full absolute path** of your current working directory.
+
+### 📌 Syntax:
 
 ```bash
 pwd
 ```
 
-it **displays the full absolute path** of the current directory you’re in.
+### 🧾 Example:
 
-### Example:
+If you’re inside the folder `/home/user/documents/projects`, running:
 
-If you’re inside the folder `/home/user/documents/projects`, running `pwd` will output:
+```bash
+pwd
+```
+
+will output:
 
 ```
 /home/user/documents/projects
 ```
 
-It’s useful to confirm your current location in the filesystem before running commands like `rm` or `ls`.
+### 💡 Why Use It?
 
-Want to try some other commands or learn more about how to navigate the filesystem?
+* Confirms **where you are** in the filesystem.
+* Helpful before running commands like `rm`, `cd`, or `ls`.
