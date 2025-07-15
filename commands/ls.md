@@ -99,7 +99,4 @@ drwxr-xr-x  2 user group   4096 Jul 11 09:12 myfolder
 * Use **`ls -lh`** to easily read file sizes like `1.2K`, `5.4M`.
 * Use **`alias ls='ls --color=auto'`** to enable color always.
 * Combine multiple options: `ls -la`, `ls -ltr`, `ls -lhS`, etc.
-
----
-
-Let me know the next command you'd like explained!
+ 
