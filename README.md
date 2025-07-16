@@ -17,9 +17,9 @@ Each command is documented with:
 | Command | Description |
 |---------|-------------|
 | [`cat`](./commands/cat.md) | View contents of a file |
-| [`pwd`](./commands/pwd.md) | Print Working Directory – shows the current directory path |
-| [`ls`](./commands/ls.md) | List directory contents |
 | [`cd`](./commands/cd.md) | Change directory |
+| [`ls`](./commands/ls.md) | List directory contents |
+| [`pwd`](./commands/pwd.md) | Print Working Directory – shows the current directory path |
 | [`mkdir`](./commands/mkdir.md) | Make new directory |
 | [`rmdir`](./commands/rmdir.md) | Remove empty directories |
 | [`touch`](./commands/touch.md) | Create empty file(s) |
