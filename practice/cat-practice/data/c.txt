@@ -1,0 +1,5 @@
+This is come data in a.txt
+Written by Pranav
+This is come data in b.txt
+New Data in A
+New Data in B
